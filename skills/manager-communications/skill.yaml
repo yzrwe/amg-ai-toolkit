@@ -1,0 +1,74 @@
+name: manager-communications
+version: 1.0.0
+description: >
+  Encodes AMG's intake workflow for external investment manager
+  communications — capital call notices, distribution notices, quarterly
+  letters, and legal document amendments. Given a document, the skill
+  classifies it, extracts the operationally critical fields, validates them
+  against hard rules, and produces a structured summary plus an action
+  checklist for the Operations team. A human approves every action;
+  the skill's job is to make that review take two minutes instead of twenty.
+
+triggers:
+  - "process this capital call"
+  - "summarize this manager letter"
+  - "what does this amendment change"
+  - "log this distribution notice"
+
+inputs:
+  document:
+    type: file | text
+    required: true
+    description: The manager communication (PDF or pasted text).
+  fund_context:
+    type: string
+    required: false
+    description: Fund name if known, e.g. "Alder Grove Partners VII".
+
+document_types:
+  capital_call:
+    extract:
+      - fund_name
+      - call_amount_usd
+      - call_number
+      - due_date
+      - wire_instructions_changed   # boolean — CRITICAL flag
+      - remaining_unfunded_commitment
+      - purpose (investments / fees / expenses breakdown)
+    validations:
+      - "due_date must be >= 5 business days out; else flag URGENT"
+      - "call_amount must not exceed remaining unfunded commitment"
+      - "if wire_instructions_changed: flag FRAUD-CHECK — verify by phone
+         with known contact, never via details in the notice itself"
+  distribution_notice:
+    extract: [fund_name, distribution_amount_usd, recallable_flag,
+              source (realization / income), payment_date]
+    validations:
+      - "recallable distributions must update unfunded commitment tracking"
+  quarterly_letter:
+    extract: [fund_name, period, net_irr, tvpi_moic, nav, key_portfolio_events,
+              personnel_changes, terms_or_strategy_changes]
+    validations:
+      - "personnel or strategy changes -> flag for Investments team review"
+  legal_amendment:
+    extract: [fund_name, sections_amended, consent_required_flag,
+              response_deadline, economic_terms_impacted]
+    validations:
+      - "consent_required or economic terms impacted -> route to counsel;
+         never summarize as routine"
+
+steps:
+  - id: classify
+    run: Identify document type. If ambiguous, say so and ask — never guess on legal documents.
+  - id: extract
+    run: Pull the type-specific fields above. Quote amounts and dates verbatim from the document; no inference.
+  - id: validate
+    run: Apply the type's validation rules; collect flags.
+  - id: summarize
+    run: Produce the output template in SKILL.md (summary + action checklist + flags).
+
+quality_gates:
+  - "Every extracted number/date must appear verbatim in the source document"
+  - "Wire instruction changes ALWAYS produce a fraud-check flag, no exceptions"
+  - "Legal amendments are never auto-classified as routine"
+  - "Output marked DRAFT — pending human review until an operator signs off"
