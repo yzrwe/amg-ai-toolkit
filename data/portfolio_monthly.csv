@@ -1,0 +1,338 @@
+month,manager,asset_class,sub_class,target_weight_pct,custodian_return_pct,manager_return_pct,nav_usd_m,reporting_lag_months
+2024-07,Northbrook Capital,Public Equity,US Large Cap,14.0,2.0741,2.0533,1714.84,0
+2024-08,Northbrook Capital,Public Equity,US Large Cap,14.0,4.1329,4.1517,1785.72,0
+2024-09,Northbrook Capital,Public Equity,US Large Cap,14.0,-8.3448,-8.3708,1636.7,0
+2024-10,Northbrook Capital,Public Equity,US Large Cap,14.0,1.2571,1.2508,1657.28,0
+2024-11,Northbrook Capital,Public Equity,US Large Cap,14.0,0.5891,0.572,1667.04,0
+2024-12,Northbrook Capital,Public Equity,US Large Cap,14.0,4.7284,4.744,1745.87,0
+2025-01,Northbrook Capital,Public Equity,US Large Cap,14.0,0.9716,0.9942,1762.83,0
+2025-02,Northbrook Capital,Public Equity,US Large Cap,14.0,2.826,2.8088,1812.65,0
+2025-03,Northbrook Capital,Public Equity,US Large Cap,14.0,2.3699,2.3507,1855.6,0
+2025-04,Northbrook Capital,Public Equity,US Large Cap,14.0,4.7241,4.7231,1943.26,0
+2025-05,Northbrook Capital,Public Equity,US Large Cap,14.0,-0.1872,-0.2008,1939.63,0
+2025-06,Northbrook Capital,Public Equity,US Large Cap,14.0,6.3133,6.3103,2062.08,0
+2025-07,Northbrook Capital,Public Equity,US Large Cap,14.0,-1.3117,-1.3187,2035.03,0
+2025-08,Northbrook Capital,Public Equity,US Large Cap,14.0,3.1253,3.1326,2098.63,0
+2025-09,Northbrook Capital,Public Equity,US Large Cap,14.0,2.573,2.5816,2152.63,0
+2025-10,Northbrook Capital,Public Equity,US Large Cap,14.0,10.5585,10.5504,2379.92,0
+2025-11,Northbrook Capital,Public Equity,US Large Cap,14.0,-1.6993,-1.7156,2339.48,0
+2025-12,Northbrook Capital,Public Equity,US Large Cap,14.0,3.5118,3.5343,2421.63,0
+2026-01,Northbrook Capital,Public Equity,US Large Cap,14.0,0.1404,0.1236,2425.03,0
+2026-02,Northbrook Capital,Public Equity,US Large Cap,14.0,-3.1414,-3.1284,2348.85,0
+2026-03,Northbrook Capital,Public Equity,US Large Cap,14.0,4.0996,4.1105,2445.14,0
+2026-04,Northbrook Capital,Public Equity,US Large Cap,14.0,-2.4072,-2.4025,2386.29,0
+2026-05,Northbrook Capital,Public Equity,US Large Cap,14.0,1.2056,1.21,2415.05,0
+2026-06,Northbrook Capital,Public Equity,US Large Cap,14.0,4.6916,4.6961,2528.36,0
+2024-07,Halverson Global,Public Equity,International Dev,8.0,3.9151,3.9164,997.58,0
+2024-08,Halverson Global,Public Equity,International Dev,8.0,2.0022,2.0148,1017.56,0
+2024-09,Halverson Global,Public Equity,International Dev,8.0,-6.5676,-6.574,950.73,0
+2024-10,Halverson Global,Public Equity,International Dev,8.0,-1.725,-1.7378,934.33,0
+2024-11,Halverson Global,Public Equity,International Dev,8.0,-0.7669,-0.737,927.16,0
+2024-12,Halverson Global,Public Equity,International Dev,8.0,-3.6657,-3.6463,893.18,0
+2025-01,Halverson Global,Public Equity,International Dev,8.0,-7.6753,-7.682,824.62,0
+2025-02,Halverson Global,Public Equity,International Dev,8.0,1.382,1.3938,836.02,0
+2025-03,Halverson Global,Public Equity,International Dev,8.0,4.0737,4.0895,870.08,0
+2025-04,Halverson Global,Public Equity,International Dev,8.0,-1.128,-1.1373,860.26,0
+2025-05,Halverson Global,Public Equity,International Dev,8.0,4.7938,4.79,901.5,0
+2025-06,Halverson Global,Public Equity,International Dev,8.0,-5.6771,-5.6997,850.32,0
+2025-07,Halverson Global,Public Equity,International Dev,8.0,-3.9289,-3.9189,816.91,0
+2025-08,Halverson Global,Public Equity,International Dev,8.0,1.2823,1.2961,827.39,0
+2025-09,Halverson Global,Public Equity,International Dev,8.0,-1.5134,-1.5102,814.87,0
+2025-10,Halverson Global,Public Equity,International Dev,8.0,3.6534,3.6472,844.64,0
+2025-11,Halverson Global,Public Equity,International Dev,8.0,2.8249,2.8117,868.5,0
+2025-12,Halverson Global,Public Equity,International Dev,8.0,-1.1983,-1.206,858.09,0
+2026-01,Halverson Global,Public Equity,International Dev,8.0,-5.2852,-5.2755,812.74,0
+2026-02,Halverson Global,Public Equity,International Dev,8.0,-1.7202,-1.72,798.76,0
+2026-03,Halverson Global,Public Equity,International Dev,8.0,2.9426,2.9515,822.26,0
+2026-04,Halverson Global,Public Equity,International Dev,8.0,3.8487,3.8467,853.91,0
+2026-05,Halverson Global,Public Equity,International Dev,8.0,-1.494,-1.4956,841.15,0
+2026-06,Halverson Global,Public Equity,International Dev,8.0,-7.6972,-7.7262,776.4,0
+2024-07,Meridian EM Partners,Public Equity,Emerging Markets,4.0,-7.7336,-7.7535,442.88,0
+2024-08,Meridian EM Partners,Public Equity,Emerging Markets,4.0,3.2056,3.1875,457.08,0
+2024-09,Meridian EM Partners,Public Equity,Emerging Markets,4.0,-1.735,-1.709,449.15,0
+2024-10,Meridian EM Partners,Public Equity,Emerging Markets,4.0,-1.5959,-1.5812,441.98,0
+2024-11,Meridian EM Partners,Public Equity,Emerging Markets,4.0,-5.2626,-5.2667,418.72,0
+2024-12,Meridian EM Partners,Public Equity,Emerging Markets,4.0,-5.3668,-5.3736,396.25,0
+2025-01,Meridian EM Partners,Public Equity,Emerging Markets,4.0,6.0033,5.9688,420.03,0
+2025-02,Meridian EM Partners,Public Equity,Emerging Markets,4.0,3.4256,3.4304,434.42,0
+2025-03,Meridian EM Partners,Public Equity,Emerging Markets,4.0,-3.1067,-3.1356,420.93,0
+2025-04,Meridian EM Partners,Public Equity,Emerging Markets,4.0,1.1248,1.1142,425.66,0
+2025-05,Meridian EM Partners,Public Equity,Emerging Markets,4.0,2.1444,2.1448,434.79,0
+2025-06,Meridian EM Partners,Public Equity,Emerging Markets,4.0,10.8393,10.8345,481.92,0
+2025-07,Meridian EM Partners,Public Equity,Emerging Markets,4.0,-5.8334,-5.8298,453.8,0
+2025-08,Meridian EM Partners,Public Equity,Emerging Markets,4.0,2.0638,2.091,463.17,0
+2025-09,Meridian EM Partners,Public Equity,Emerging Markets,4.0,5.9703,5.9775,490.82,0
+2025-10,Meridian EM Partners,Public Equity,Emerging Markets,4.0,9.9599,9.9361,539.71,0
+2025-11,Meridian EM Partners,Public Equity,Emerging Markets,4.0,-3.3963,-3.4148,521.38,0
+2025-12,Meridian EM Partners,Public Equity,Emerging Markets,4.0,-1.809,-1.8365,511.95,0
+2026-01,Meridian EM Partners,Public Equity,Emerging Markets,4.0,4.7004,4.696,536.01,0
+2026-02,Meridian EM Partners,Public Equity,Emerging Markets,4.0,-8.6742,-8.6945,489.52,0
+2026-03,Meridian EM Partners,Public Equity,Emerging Markets,4.0,2.6577,2.6745,502.53,0
+2026-04,Meridian EM Partners,Public Equity,Emerging Markets,4.0,13.3476,13.4059,569.6,0
+2026-05,Meridian EM Partners,Public Equity,Emerging Markets,4.0,3.2985,3.2787,588.39,0
+2026-06,Meridian EM Partners,Public Equity,Emerging Markets,4.0,-12.8736,-12.8683,512.64,0
+2024-07,Ironclad Index Co,Public Equity,US Small Cap,4.0,-4.0269,-4.0352,460.67,0
+2024-08,Ironclad Index Co,Public Equity,US Small Cap,4.0,-2.8673,-2.8701,447.46,0
+2024-09,Ironclad Index Co,Public Equity,US Small Cap,4.0,6.8211,6.8242,477.98,0
+2024-10,Ironclad Index Co,Public Equity,US Small Cap,4.0,-0.2492,-0.2699,476.79,0
+2024-11,Ironclad Index Co,Public Equity,US Small Cap,4.0,-9.0021,-9.0118,433.87,0
+2024-12,Ironclad Index Co,Public Equity,US Small Cap,4.0,0.3562,0.3915,435.42,0
+2025-01,Ironclad Index Co,Public Equity,US Small Cap,4.0,1.4188,1.4385,441.59,0
+2025-02,Ironclad Index Co,Public Equity,US Small Cap,4.0,-2.216,-2.2397,431.81,0
+2025-03,Ironclad Index Co,Public Equity,US Small Cap,4.0,-4.9054,-4.9199,410.63,0
+2025-04,Ironclad Index Co,Public Equity,US Small Cap,4.0,12.9554,12.939,463.82,0
+2025-05,Ironclad Index Co,Public Equity,US Small Cap,4.0,5.5077,5.4896,489.37,0
+2025-06,Ironclad Index Co,Public Equity,US Small Cap,4.0,6.0451,6.0528,518.95,0
+2025-07,Ironclad Index Co,Public Equity,US Small Cap,4.0,-0.2377,-0.2385,517.72,0
+2025-08,Ironclad Index Co,Public Equity,US Small Cap,4.0,-3.1138,-3.1048,501.6,0
+2025-09,Ironclad Index Co,Public Equity,US Small Cap,4.0,-1.9602,-1.9847,491.77,0
+2025-10,Ironclad Index Co,Public Equity,US Small Cap,4.0,-6.7115,-6.7081,458.76,0
+2025-11,Ironclad Index Co,Public Equity,US Small Cap,4.0,9.7836,9.7868,503.65,0
+2025-12,Ironclad Index Co,Public Equity,US Small Cap,4.0,-0.0183,-0.0126,503.55,0
+2026-01,Ironclad Index Co,Public Equity,US Small Cap,4.0,8.2069,8.2113,544.88,0
+2026-02,Ironclad Index Co,Public Equity,US Small Cap,4.0,-1.7058,-1.6837,535.59,0
+2026-03,Ironclad Index Co,Public Equity,US Small Cap,4.0,3.1421,3.1728,552.41,0
+2026-04,Ironclad Index Co,Public Equity,US Small Cap,4.0,1.7246,1.7001,561.94,0
+2026-05,Ironclad Index Co,Public Equity,US Small Cap,4.0,-7.2324,-7.1994,521.3,0
+2026-06,Ironclad Index Co,Public Equity,US Small Cap,4.0,10.6183,10.6147,576.65,0
+2024-07,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-0.6205,-0.5913,1908.09,0
+2024-08,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-2.5012,-2.5191,1860.36,0
+2024-09,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,2.0464,2.0385,1898.43,0
+2024-10,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,0.3617,0.3584,1905.3,0
+2024-11,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,1.252,1.2802,1929.15,0
+2024-12,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,0.6103,0.6232,1940.93,0
+2025-01,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-4.9515,-4.9525,1844.82,0
+2025-02,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-1.8158,-1.8402,1811.32,0
+2025-03,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-1.9065,-1.9132,1776.79,0
+2025-04,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,2.7546,2.7281,1825.73,0
+2025-05,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,0.4546,0.4449,1834.03,0
+2025-06,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-0.4763,-0.4563,1825.3,0
+2025-07,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,1.7731,1.7998,1857.66,0
+2025-08,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-0.0264,-0.0403,1857.17,0
+2025-09,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-0.2066,-0.2018,1853.33,0
+2025-10,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,0.8338,0.8121,1868.79,0
+2025-11,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,0.6101,0.6147,1880.19,0
+2025-12,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,6.9156,6.9531,2010.21,0
+2026-01,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-1.8418,-1.8475,1973.19,0
+2026-02,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-3.4271,-3.4389,1905.57,0
+2026-03,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,1.195,1.2191,1928.34,0
+2026-04,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-1.5192,-1.5323,1899.04,0
+2026-05,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-5.2038,-5.2071,1800.22,0
+2026-06,Bluestem Fixed Income,Fixed Income,Long Duration Govt,16.0,-2.3852,-2.3958,1757.28,0
+2024-07,Carraway Credit,Fixed Income,IG Credit,12.0,-1.3552,-1.3571,1420.48,0
+2024-08,Carraway Credit,Fixed Income,IG Credit,12.0,-3.1352,-3.1646,1375.95,0
+2024-09,Carraway Credit,Fixed Income,IG Credit,12.0,4.7193,4.6935,1440.88,0
+2024-10,Carraway Credit,Fixed Income,IG Credit,12.0,-1.7996,-1.7629,1414.95,0
+2024-11,Carraway Credit,Fixed Income,IG Credit,12.0,6.287,6.2636,1503.91,0
+2024-12,Carraway Credit,Fixed Income,IG Credit,12.0,-0.3275,-0.3206,1498.99,0
+2025-01,Carraway Credit,Fixed Income,IG Credit,12.0,3.9099,3.8902,1557.6,0
+2025-02,Carraway Credit,Fixed Income,IG Credit,12.0,-0.079,-0.0634,1556.37,0
+2025-03,Carraway Credit,Fixed Income,IG Credit,12.0,1.2952,1.2877,1576.52,0
+2025-04,Carraway Credit,Fixed Income,IG Credit,12.0,0.1462,0.1187,1578.83,0
+2025-05,Carraway Credit,Fixed Income,IG Credit,12.0,-0.0646,-0.0699,1577.81,0
+2025-06,Carraway Credit,Fixed Income,IG Credit,12.0,0.8858,0.8747,1591.79,0
+2025-07,Carraway Credit,Fixed Income,IG Credit,12.0,1.3695,1.3898,1613.59,0
+2025-08,Carraway Credit,Fixed Income,IG Credit,12.0,0.7307,0.7378,1625.38,0
+2025-09,Carraway Credit,Fixed Income,IG Credit,12.0,0.5241,0.5241,1633.9,0
+2025-10,Carraway Credit,Fixed Income,IG Credit,12.0,-1.0414,-1.0351,1616.88,0
+2025-11,Carraway Credit,Fixed Income,IG Credit,12.0,0.2201,0.2619,1620.44,0
+2025-12,Carraway Credit,Fixed Income,IG Credit,12.0,3.596,3.6037,1678.71,0
+2026-01,Carraway Credit,Fixed Income,IG Credit,12.0,-1.1253,-1.1475,1659.82,0
+2026-02,Carraway Credit,Fixed Income,IG Credit,12.0,2.8236,2.8289,1706.69,0
+2026-03,Carraway Credit,Fixed Income,IG Credit,12.0,1.3869,1.352,1730.36,0
+2026-04,Carraway Credit,Fixed Income,IG Credit,12.0,2.2908,2.2999,1770.0,0
+2026-05,Carraway Credit,Fixed Income,IG Credit,12.0,-1.8272,-1.8366,1737.65,0
+2026-06,Carraway Credit,Fixed Income,IG Credit,12.0,0.9496,0.9506,1754.15,0
+2024-07,Tallgrass High Yield,Fixed Income,High Yield,4.0,-0.2591,-0.2612,478.76,0
+2024-08,Tallgrass High Yield,Fixed Income,High Yield,4.0,-0.1547,-0.1516,478.02,0
+2024-09,Tallgrass High Yield,Fixed Income,High Yield,4.0,4.323,4.2717,498.68,0
+2024-10,Tallgrass High Yield,Fixed Income,High Yield,4.0,-0.1154,-0.1118,498.11,0
+2024-11,Tallgrass High Yield,Fixed Income,High Yield,4.0,1.269,1.2616,504.43,0
+2024-12,Tallgrass High Yield,Fixed Income,High Yield,4.0,-4.0641,-4.0575,483.93,0
+2025-01,Tallgrass High Yield,Fixed Income,High Yield,4.0,4.9878,4.9571,508.06,0
+2025-02,Tallgrass High Yield,Fixed Income,High Yield,4.0,2.7443,2.7377,522.01,0
+2025-03,Tallgrass High Yield,Fixed Income,High Yield,4.0,0.3407,0.3196,523.78,0
+2025-04,Tallgrass High Yield,Fixed Income,High Yield,4.0,-0.3689,-0.3429,521.85,0
+2025-05,Tallgrass High Yield,Fixed Income,High Yield,4.0,2.0138,2.0484,532.36,0
+2025-06,Tallgrass High Yield,Fixed Income,High Yield,4.0,3.559,3.5678,551.31,0
+2025-07,Tallgrass High Yield,Fixed Income,High Yield,4.0,5.0309,5.0397,579.04,0
+2025-08,Tallgrass High Yield,Fixed Income,High Yield,4.0,2.6512,2.6452,594.39,0
+2025-09,Tallgrass High Yield,Fixed Income,High Yield,4.0,0.6729,0.6589,598.39,0
+2025-10,Tallgrass High Yield,Fixed Income,High Yield,4.0,3.071,3.0474,616.77,0
+2025-11,Tallgrass High Yield,Fixed Income,High Yield,4.0,2.5326,2.5288,632.39,0
+2025-12,Tallgrass High Yield,Fixed Income,High Yield,4.0,3.543,3.558,654.8,0
+2026-01,Tallgrass High Yield,Fixed Income,High Yield,4.0,5.2302,5.2448,689.04,0
+2026-02,Tallgrass High Yield,Fixed Income,High Yield,4.0,-3.5843,-3.5856,664.35,0
+2026-03,Tallgrass High Yield,Fixed Income,High Yield,4.0,-2.545,-1.6949999999999998,647.44,0
+2026-04,Tallgrass High Yield,Fixed Income,High Yield,4.0,4.4263,4.439,676.1,0
+2026-05,Tallgrass High Yield,Fixed Income,High Yield,4.0,-1.3159,-1.3361,667.2,0
+2026-06,Tallgrass High Yield,Fixed Income,High Yield,4.0,0.5852,0.5608,671.1,0
+2024-07,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,-1.0499,-1.0437,474.96,1
+2024-08,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,3.1681,3.1803,490.01,1
+2024-09,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,-4.7915,-4.7854,466.53,1
+2024-10,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,0.6664,0.6746,469.64,1
+2024-11,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,4.2325,4.1912,489.51,1
+2024-12,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,-0.8651,-0.8533,485.28,1
+2025-01,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,-3.1525,-3.123,469.98,1
+2025-02,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,1.3507,1.3676,476.33,1
+2025-03,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,-0.8185,-0.8023,472.43,1
+2025-04,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,2.9675,2.9722,486.45,1
+2025-05,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,1.0413,1.0467,491.52,1
+2025-06,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,-1.4938,-1.4968,484.17,1
+2025-07,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,0.1478,0.1554,484.89,1
+2025-08,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,2.809,2.7878,498.51,1
+2025-09,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,0.2113,0.2409,499.56,1
+2025-10,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,-1.2172,-1.2337,493.48,1
+2025-11,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,0.9672,0.9841,498.25,1
+2025-12,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,0.5264,0.553,500.88,1
+2026-01,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,2.4787,2.4955,513.29,1
+2026-02,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,,1.8262,522.43,1
+2026-03,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,0.0262,-0.0139,522.56,1
+2026-04,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,4.2049,4.1957,544.54,1
+2026-05,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,0.7491,0.7753,548.62,1
+2026-06,Foxglove Macro Fund,Hedge Funds,Global Macro,4.0,-3.2003,-3.2253,531.06,1
+2024-07,Quarry Relative Value,Hedge Funds,Relative Value,4.0,-1.8529,-1.8688,471.11,1
+2024-08,Quarry Relative Value,Hedge Funds,Relative Value,4.0,1.0929,1.1034,476.25,1
+2024-09,Quarry Relative Value,Hedge Funds,Relative Value,4.0,0.8571,0.8288,480.34,1
+2024-10,Quarry Relative Value,Hedge Funds,Relative Value,4.0,-2.876,-2.8749,466.52,1
+2024-11,Quarry Relative Value,Hedge Funds,Relative Value,4.0,-0.2226,-0.2134,465.48,1
+2024-12,Quarry Relative Value,Hedge Funds,Relative Value,4.0,1.4715,1.4743,472.33,1
+2025-01,Quarry Relative Value,Hedge Funds,Relative Value,4.0,1.5555,1.5601,479.68,1
+2025-02,Quarry Relative Value,Hedge Funds,Relative Value,4.0,1.2234,1.2093,485.55,1
+2025-03,Quarry Relative Value,Hedge Funds,Relative Value,4.0,0.1991,0.203,486.52,1
+2025-04,Quarry Relative Value,Hedge Funds,Relative Value,4.0,1.6427,1.6348,494.51,1
+2025-05,Quarry Relative Value,Hedge Funds,Relative Value,4.0,1.2106,1.2053,500.49,1
+2025-06,Quarry Relative Value,Hedge Funds,Relative Value,4.0,0.2887,0.3053,501.94,1
+2025-07,Quarry Relative Value,Hedge Funds,Relative Value,4.0,-2.4184,-2.4443,489.8,1
+2025-08,Quarry Relative Value,Hedge Funds,Relative Value,4.0,-1.681,-1.7277,481.57,1
+2025-09,Quarry Relative Value,Hedge Funds,Relative Value,4.0,-0.5207,-0.5057,479.06,1
+2025-10,Quarry Relative Value,Hedge Funds,Relative Value,4.0,0.0471,0.0511,479.28,1
+2025-11,Quarry Relative Value,Hedge Funds,Relative Value,4.0,2.0305,2.057,489.02,1
+2025-12,Quarry Relative Value,Hedge Funds,Relative Value,4.0,0.3585,0.3856,490.77,1
+2026-01,Quarry Relative Value,Hedge Funds,Relative Value,4.0,0.5913,0.5746,493.67,1
+2026-02,Quarry Relative Value,Hedge Funds,Relative Value,4.0,-0.3996,-0.4292,491.7,1
+2026-03,Quarry Relative Value,Hedge Funds,Relative Value,4.0,-0.8236,-0.8307,487.65,1
+2026-04,Quarry Relative Value,Hedge Funds,Relative Value,4.0,1.6182,1.6526,495.54,1
+2026-05,Quarry Relative Value,Hedge Funds,Relative Value,4.0,-1.5367,-1.5288,487.93,1
+2026-06,Quarry Relative Value,Hedge Funds,Relative Value,4.0,-1.0436,-1.0341,482.83,1
+2024-07,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,0.1594,0.1228,360.57,1
+2024-08,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,2.9118,2.8997,371.07,1
+2024-09,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,-0.8871,-0.9085,367.78,1
+2024-10,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,-1.1999,-1.1913,363.37,1
+2024-11,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,0.0083,0.0149,363.4,1
+2024-12,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,1.4403,1.4667,368.63,1
+2025-01,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,-0.3906,-0.4201,367.19,1
+2025-02,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,3.2727,3.2661,379.21,1
+2025-03,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,3.3958,3.4035,392.09,1
+2025-04,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,0.1593,0.1663,392.71,1
+2025-05,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,5.5689,5.6104,414.58,1
+2025-06,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,0.6803,0.6835,417.4,1
+2025-07,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,3.2962,3.2792,431.16,1
+2025-08,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,1.3653,1.3648,437.05,1
+2025-09,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,1.3156,1.2989,442.8,1
+2025-10,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,-3.6298,-3.6713,426.72,1
+2025-11,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,-2.403,-2.4122,416.47,1
+2025-12,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,-0.2617,-0.223,415.38,1
+2026-01,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,3.3735,3.3542,429.39,1
+2026-02,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,1.4034,1.3952,435.42,1
+2026-03,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,-0.2388,-0.2351,434.38,1
+2026-04,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,2.1087,2.1019,443.54,1
+2026-05,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,3.264,3.2411,458.01,1
+2026-06,Stonebridge Equity LS,Hedge Funds,Equity Long/Short,3.0,0.5165,0.5684,460.38,1
+2024-07,Alder Grove Partners VII,Private Markets,Private Equity,10.0,1.6894,1.7181,1220.27,3
+2024-08,Alder Grove Partners VII,Private Markets,Private Equity,10.0,1.2337,1.2453,1235.33,3
+2024-09,Alder Grove Partners VII,Private Markets,Private Equity,10.0,0.72,0.7166,1244.22,3
+2024-10,Alder Grove Partners VII,Private Markets,Private Equity,10.0,-1.7835,-1.7749,1222.03,3
+2024-11,Alder Grove Partners VII,Private Markets,Private Equity,10.0,-2.0331,-2.0198,1197.18,3
+2024-12,Alder Grove Partners VII,Private Markets,Private Equity,10.0,4.6762,4.6835,1253.17,3
+2025-01,Alder Grove Partners VII,Private Markets,Private Equity,10.0,-0.0749,-0.0658,1252.23,3
+2025-02,Alder Grove Partners VII,Private Markets,Private Equity,10.0,-0.1526,-0.1339,1250.32,3
+2025-03,Alder Grove Partners VII,Private Markets,Private Equity,10.0,-5.4275,-5.4342,1182.46,3
+2025-04,Alder Grove Partners VII,Private Markets,Private Equity,10.0,-5.9797,-6.0096,1111.75,3
+2025-05,Alder Grove Partners VII,Private Markets,Private Equity,10.0,5.6412,5.6591,1174.47,3
+2025-06,Alder Grove Partners VII,Private Markets,Private Equity,10.0,-1.5757,-1.6057,1155.96,3
+2025-07,Alder Grove Partners VII,Private Markets,Private Equity,10.0,-9.3528,-9.3636,1047.85,3
+2025-08,Alder Grove Partners VII,Private Markets,Private Equity,10.0,9.3012,9.3099,1145.31,3
+2025-09,Alder Grove Partners VII,Private Markets,Private Equity,10.0,-1.0217,-1.0124,1133.61,3
+2025-10,Alder Grove Partners VII,Private Markets,Private Equity,10.0,-4.4907,-4.4966,1082.7,3
+2025-11,Alder Grove Partners VII,Private Markets,Private Equity,10.0,1.2613,1.2595,1096.36,3
+2025-12,Alder Grove Partners VII,Private Markets,Private Equity,10.0,3.6561,3.663,1136.44,3
+2026-01,Alder Grove Partners VII,Private Markets,Private Equity,10.0,3.2318,3.218,1173.17,3
+2026-02,Alder Grove Partners VII,Private Markets,Private Equity,10.0,4.0268,4.0594,1220.41,3
+2026-03,Alder Grove Partners VII,Private Markets,Private Equity,10.0,-2.444,-2.4618,1190.58,3
+2026-04,Alder Grove Partners VII,Private Markets,Private Equity,10.0,5.544,5.5401,1256.59,3
+2026-05,Alder Grove Partners VII,Private Markets,Private Equity,10.0,5.7796,5.7708,1329.21,3
+2026-06,Alder Grove Partners VII,Private Markets,Private Equity,10.0,5.9571,5.9597,1408.39,3
+2024-07,Kestrel Ventures III,Private Markets,Venture Capital,3.0,2.4909,2.5222,368.97,3
+2024-08,Kestrel Ventures III,Private Markets,Venture Capital,3.0,-1.0887,-1.1075,364.95,3
+2024-09,Kestrel Ventures III,Private Markets,Venture Capital,3.0,-1.5898,-1.5807,359.15,3
+2024-10,Kestrel Ventures III,Private Markets,Venture Capital,3.0,-8.0399,-8.0272,330.27,3
+2024-11,Kestrel Ventures III,Private Markets,Venture Capital,3.0,-2.1106,-2.0876,323.3,3
+2024-12,Kestrel Ventures III,Private Markets,Venture Capital,3.0,-12.8233,-12.839,281.84,3
+2025-01,Kestrel Ventures III,Private Markets,Venture Capital,3.0,-8.7368,-8.7534,257.22,3
+2025-02,Kestrel Ventures III,Private Markets,Venture Capital,3.0,2.4299,2.4263,263.47,3
+2025-03,Kestrel Ventures III,Private Markets,Venture Capital,3.0,-0.4629,-0.4661,262.25,3
+2025-04,Kestrel Ventures III,Private Markets,Venture Capital,3.0,2.1743,2.1541,267.95,3
+2025-05,Kestrel Ventures III,Private Markets,Venture Capital,3.0,5.081,5.0943,281.57,3
+2025-06,Kestrel Ventures III,Private Markets,Venture Capital,3.0,3.223,3.2341,290.64,3
+2025-07,Kestrel Ventures III,Private Markets,Venture Capital,3.0,2.7114,2.7521,298.52,3
+2025-08,Kestrel Ventures III,Private Markets,Venture Capital,3.0,0.4972,0.491,300.01,3
+2025-09,Kestrel Ventures III,Private Markets,Venture Capital,3.0,-3.3505,-3.3711,289.96,3
+2025-10,Kestrel Ventures III,Private Markets,Venture Capital,3.0,-6.185,-6.2027,272.02,3
+2025-11,Kestrel Ventures III,Private Markets,Venture Capital,3.0,0.5919,0.5986,273.63,3
+2025-12,Kestrel Ventures III,Private Markets,Venture Capital,3.0,1.2953,1.28,277.18,3
+2026-01,Kestrel Ventures III,Private Markets,Venture Capital,3.0,6.1972,6.212,-294.35,3
+2026-02,Kestrel Ventures III,Private Markets,Venture Capital,3.0,0.0783,0.0652,294.58,3
+2026-03,Kestrel Ventures III,Private Markets,Venture Capital,3.0,4.1664,4.1701,306.86,3
+2026-04,Kestrel Ventures III,Private Markets,Venture Capital,3.0,-7.3608,-7.3621,284.27,3
+2026-05,Kestrel Ventures III,Private Markets,Venture Capital,3.0,2.5129,2.4949,291.41,3
+2026-06,Kestrel Ventures III,Private Markets,Venture Capital,3.0,2.0961,2.067,297.52,3
+2024-07,Millbrook Private Credit,Private Markets,Private Credit,8.0,3.0227,3.0476,989.02,3
+2024-08,Millbrook Private Credit,Private Markets,Private Credit,8.0,0.271,0.2782,991.7,3
+2024-09,Millbrook Private Credit,Private Markets,Private Credit,8.0,-3.4658,-3.4889,957.33,3
+2024-10,Millbrook Private Credit,Private Markets,Private Credit,8.0,0.1995,0.1781,959.24,3
+2024-11,Millbrook Private Credit,Private Markets,Private Credit,8.0,1.9457,1.9857,977.9,3
+2024-12,Millbrook Private Credit,Private Markets,Private Credit,8.0,-1.3296,-1.3464,964.9,3
+2025-01,Millbrook Private Credit,Private Markets,Private Credit,8.0,1.1161,1.1484,975.67,3
+2025-02,Millbrook Private Credit,Private Markets,Private Credit,8.0,-1.4089,-1.4039,961.92,3
+2025-03,Millbrook Private Credit,Private Markets,Private Credit,8.0,3.8629,3.8299,999.08,3
+2025-04,Millbrook Private Credit,Private Markets,Private Credit,8.0,-1.5105,-1.519,983.99,3
+2025-05,Millbrook Private Credit,Private Markets,Private Credit,8.0,-0.1934,-0.1771,982.09,3
+2025-06,Millbrook Private Credit,Private Markets,Private Credit,8.0,1.1269,1.0914,993.15,3
+2025-07,Millbrook Private Credit,Private Markets,Private Credit,8.0,1.6011,1.5895,1009.05,3
+2025-08,Millbrook Private Credit,Private Markets,Private Credit,8.0,2.9157,2.9032,1038.48,3
+2025-09,Millbrook Private Credit,Private Markets,Private Credit,8.0,-0.3943,-0.3835,1034.38,3
+2025-10,Millbrook Private Credit,Private Markets,Private Credit,8.0,2.0298,2.0387,1055.38,3
+2025-11,Millbrook Private Credit,Private Markets,Private Credit,8.0,-2.2112,-2.2004,1032.04,3
+2025-12,Millbrook Private Credit,Private Markets,Private Credit,8.0,-1.0831,-1.0784,1020.86,3
+2026-01,Millbrook Private Credit,Private Markets,Private Credit,8.0,-1.7576,-1.7487,1002.92,3
+2026-02,Millbrook Private Credit,Private Markets,Private Credit,8.0,-0.6887,-0.7144,996.01,3
+2026-03,Millbrook Private Credit,Private Markets,Private Credit,8.0,1.9447,1.9495,1015.38,3
+2026-04,Millbrook Private Credit,Private Markets,Private Credit,8.0,-0.3551,-0.3261,1011.77,3
+2026-05,Millbrook Private Credit,Private Markets,Private Credit,8.0,-0.0549,-0.0543,1011.22,3
+2026-06,Millbrook Private Credit,Private Markets,Private Credit,8.0,1.1741,1.1617,1023.09,3
+2024-07,Granite Real Assets,Private Markets,Real Assets,6.0,1.6714,1.6607,732.03,3
+2024-08,Granite Real Assets,Private Markets,Real Assets,6.0,-0.3673,-0.3401,729.35,3
+2024-09,Granite Real Assets,Private Markets,Real Assets,6.0,-1.8198,-1.8681,716.07,3
+2024-10,Granite Real Assets,Private Markets,Real Assets,6.0,4.3036,4.3546,746.89,3
+2024-11,Granite Real Assets,Private Markets,Real Assets,6.0,-0.3526,-0.3913,744.26,3
+2024-12,Granite Real Assets,Private Markets,Real Assets,6.0,-0.1337,-0.1394,743.26,3
+2025-01,Granite Real Assets,Private Markets,Real Assets,6.0,0.1447,0.1225,744.34,3
+2025-02,Granite Real Assets,Private Markets,Real Assets,6.0,1.9218,1.9323,758.64,3
+2025-03,Granite Real Assets,Private Markets,Real Assets,6.0,-2.8678,-2.8539,736.88,3
+2025-04,Granite Real Assets,Private Markets,Real Assets,6.0,5.3238,5.3272,776.11,3
+2025-05,Granite Real Assets,Private Markets,Real Assets,6.0,-0.1957,-0.1985,774.6,3
+2025-06,Granite Real Assets,Private Markets,Real Assets,6.0,2.0042,1.9696,790.12,3
+2025-07,Granite Real Assets,Private Markets,Real Assets,6.0,0.963,0.9552,797.73,3
+2025-08,Granite Real Assets,Private Markets,Real Assets,6.0,4.8507,4.8472,836.42,3
+2025-09,Granite Real Assets,Private Markets,Real Assets,6.0,4.4352,4.4131,873.52,3
+2025-10,Granite Real Assets,Private Markets,Real Assets,6.0,1.9396,1.9459,890.46,3
+2025-11,Granite Real Assets,Private Markets,Real Assets,6.0,-1.4236,-1.4201,877.79,3
+2025-12,Granite Real Assets,Private Markets,Real Assets,6.0,3.3835,3.377,907.49,3
+2026-01,Granite Real Assets,Private Markets,Real Assets,6.0,-3.3241,-3.3244,877.32,3
+2026-02,Granite Real Assets,Private Markets,Real Assets,6.0,-1.5007,-1.5076,864.16,3
+2026-03,Granite Real Assets,Private Markets,Real Assets,6.0,0.3949,0.3608,867.57,3
+2026-04,Granite Real Assets,Private Markets,Real Assets,6.0,-3.1479,-3.1382,840.26,3
+2026-05,Granite Real Assets,Private Markets,Real Assets,6.0,-0.6238,-0.6751,835.02,3
+2026-06,Granite Real Assets,Private Markets,Real Assets,6.0,2.3959,2.4013,855.02,3
+2025-11,Carraway Credit,Fixed Income,IG Credit,12.0,0.2201,0.2619,1620.44,0
