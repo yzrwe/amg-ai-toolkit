@@ -59,5 +59,3 @@ streamlit run app.py                     # portfolio monitor
   attribute rather than treated as missing data.
 
 ---
-
-*Regis Yizerwe — yizerwer@gmail.com*
